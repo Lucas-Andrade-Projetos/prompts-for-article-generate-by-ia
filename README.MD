@@ -15,13 +15,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 títulos chamativos para nomes de artigos sobre o assunto SQL - CRUD                                                                                                                                                                                                    |
-| conteúdo | Se comporte com um escritor de artigos tech para o publico iniciante na área e escreva um artigo sobre CRUD seguindo as seguintes regras:
-REGRAS:
--ter uma introdução;
--ter blocos de no máximo 5 linhas;
--Explique cada parte do CRUD(CREATE, READ, UPDATE, DELETE);
--Use exemplos em cada bloco que falar sobre o CRUD;
--Coloque 3 hashtags que faça sentido para esse artigo; |
+| conteúdo | Se comporte com um escritor de artigos tech para o publico iniciante na área e escreva um artigo sobre CRUD seguindo as seguintes regras: REGRAS: ter uma introdução; ter blocos de no máximo 5 linhas; Explique cada parte do CRUD(CREATE, READ, UPDATE, DELETE); Use exemplos em cada bloco que falar sobre o CRUD; Coloque 3 hashtags que faça sentido para esse artigo;|
 
 
 Copilot：
